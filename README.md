@@ -35,7 +35,7 @@ Proctor AI is an intelligent online proctoring system that leverages artificial 
 1. Clone the repository:
    ```sh
    git clone https://github.com/HirushiKeshan/Blockchain-Integrated-AI-for-Online-Examination-Proctoring-Proctor-AI-.git
-   cd proctor-ai
+  
    ```
 2. Install dependencies:
    ```sh
