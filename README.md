@@ -39,7 +39,9 @@ Proctor AI is an intelligent online proctoring system that leverages artificial 
    ```
 2. Install dependencies:
    ```sh
+   cd frontend
    npm install
+
    ```
 3. Start the development server:
    ```sh
@@ -47,8 +49,14 @@ Proctor AI is an intelligent online proctoring system that leverages artificial 
    ```
 4. Start the backend server:
    ```sh
+   cd backend
    node server/index.js
    ```
+5. Start Ganache for Blockchain Integration:
+   
+    Download and install Ganache
+    Start a local blockchain network
+    Connect your smart contract using Truffle/Hardhat as per your project setup
 
 ## Usage
 1. Open the application in a web browser.
