@@ -1,0 +1,28 @@
+{
+  "contractName": "ExamLog",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "log",
+          "type": "string"
+        }
+      ],
+      "name": "storeLog",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "networks": {
+    "5777": {
+      "address": "0xAbC1234567890DEFabc1234567890defABC12345"
+    }
+  }
+}
